@@ -1,0 +1,18 @@
+{
+  "short_name": "Manifest",
+  "name": "TextTackller Manifest ",
+  "icons": [
+    {
+      "src": "./src/images/logo.png",
+      "type": "image/png",
+      "sizes": "500x500",
+      "purpose": "logo"
+    }
+  ],
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": "./",
+  "description": "Simple text editor!",
+  "background_color": "#000000",
+  "theme_color": "#ffffff"
+}
